@@ -35,7 +35,7 @@
       <table border=1  width="100%" style="color:red;background-color:#0DACF9">
 	  <tr width="100%"><th width="20%"><a href="https:\\google.com">Home</a></th> <th width="20%"><a href="D:\sasidhar\vss.html">Departments</a></th> <th width="20%">Examination cell</th> <th width="20%">Placement cell</th> <th width="20%">Contact Us</th></tr>
 	  </table>
-	  <p>We have started at 1980's. and it's best college in <b>Bangalore</b> with <strong>100% placements</strong>. we have many tieup companies...ehbyrhrvhvhvbvvjvnjceureuireref vbhcehhvrv  c vyuvbh    bcbhcehhc  fewe fe f  f f  few  w  w w wff  fe f f w  w w f fw wf fw  f fw fw fw fw  fw aaaaaaaaaaaaaahhfhfgfggfgfgf  f f f f f f f  wwwf  f f f g  g</p>
+	  <p>We have started at 1981's. and it's best college in <b>Bangalore</b> with <strong>100% placements</strong>. we have many tieup companies...ehbyrhrvhvhvbvvjvnjceureuireref vbhcehhvrv  c vyuvbh    bcbhcehhc  fewe fe f  f f  few  w  w w wff  fe f f w  w w f fw wf fw  f fw fw fw fw  fw aaaaaaaaaaaaaahhfhfgfggfgfgf  f f f f f f f  wwwf  f f f g  g</p>
       <h3>Colleges</h3>
 	  <ol type="i">
 				<li>Narayana Engineering College</li>
